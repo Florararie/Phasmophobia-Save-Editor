@@ -7,6 +7,14 @@ Just a simple script to decrypt Phasmophobia save files to readable JSON which y
 pip install pycryptodome
 ```
 
+## Save File locatons
+
+On Windows, save data can be located at `%appdata%\..\LocalLow\Kinetic Games\Phasmophobia\SaveFile.txt`
+
+On Linux (Proton), save data can be located at `~/.steam/steam/steamapps/compatdata/739630/pfx/drive_c/users/steamuser/AppData/LocalLow/Kinetic Games/SaveFile.txt`
+
+> Desc from https://phasmoeditor.cnnd.dev/
+
 ## Example Usage
 
 ```python
