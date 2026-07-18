@@ -2,22 +2,106 @@ Copyright (c) 2025 Florararie
 
 All rights reserved.
 
-Permission is granted to download, use, and modify this software for personal,
-non-commercial use only.
+INTENT
 
-You may not:
-- Redistribute this software, whether modified or unmodified.
-- Publish, mirror, or re-host this software or any derivative works.
-- Claim authorship of this software or any derivative works.
-- Remove or alter this copyright notice.
+This license is intended to make the Software available for viewing,
+learning, personal use, and collaboration, while reserving all
+commercial and distribution rights to the copyright holder.
 
-You may create modifications for your own personal use, but you may not
-distribute those modifications without prior written permission from the
-copyright holder.
+GOOD FAITH
+
+Users are expected to act in good faith and respect the spirit of this
+license. If you're unsure whether your use is permitted, please ask.
+
+DEFINITIONS
+
+"Software" means this project, including its source code, assets, and
+documentation.
+
+"Derivative" means any fork, modification, or work based on or derived
+from the Software.
+
+"Official Platform" means the copyright holder's designated public hosting
+platform, currently GitHub (https://github.com/).
+
+"Commercial Use" means using the Software or a Derivative, in whole or in
+part, as a means of generating revenue, financial gain, or other
+compensation. This includes selling or licensing the Software, gating access
+behind a paid tier or subscription, or explicitly soliciting financial donations
+or payments within the Software or a Derivative. It does not include general, 
+independent donation links on a user's personal profile, nor does it include 
+incidental appearances of the Software in monetized content — e.g. a video or
+article that features or reviews the Software without distributing, charging for,
+or soliciting funding on behalf of it.
+
+PERMISSIONS
+
+You may download, use, study, and modify the Software provided that neither
+the Software nor any Derivative is itself used in a manner constituting
+Commercial Use as defined above.
+
+You may fork the Software publicly, but exclusively on the Official
+Platform. Public forks are permitted solely for personal use, inspection,
+collaboration, and contributing back to the Software.
+
+Using the Software as a dependency (linking, importing, or requiring it)
+without modifying or redistributing it is permitted and does not
+constitute a Derivative.
+
+This license does not restrict independent implementations that are
+compatible with the Software's interfaces or APIs, provided they do
+not incorporate the Software's source code.
+
+RESTRICTIONS
+
+Except with prior written permission from the copyright holder, you may
+not:
+
+1. Redistribute, publish, host, or otherwise make available the Software or a 
+   Derivative outside of the Official Platform. This prohibits
+   sharing the Software or a substantial portion of its source code via other hosting
+   services, cloud storage, file-sharing sites, communication platforms,
+   or compressed archives (e.g., .zip, .tar).
+2. Publish, distribute, or make available any compiled binaries, executables, 
+   releases, or distributable artifacts of the Software or a Derivative, whether 
+   on or off the Official Platform. Public forks must remain source-code only. 
+   Compiling the code into a binary is permitted solely for your own private, 
+   local execution. This restriction does not prohibit maintaining the
+   source code of a permitted public fork as allowed under the Permissions section.
+3. Make Commercial Use of the Software or a Derivative.
+4. Present, market, or distribute a Derivative in a manner that obscures,
+   minimizes, or misrepresents its status as a derivative of the Software.
+5. Misrepresent authorship of the Software, or remove or alter this
+   license or its copyright notice.
+
+Nothing in this license grants permission to use the copyright holder's
+name, trademarks, logos, or branding, except as necessary to provide the
+attribution required below.
+
+OBLIGATIONS OF DERIVATIVES
+
+Every Derivative, however many times removed from the Software, must:
+
+- Include this license in full.
+- Retain the original copyright notice and attribution. Attribution must
+  be reasonably prominent and may not be hidden, obscured, or presented
+  in a misleading manner.
+- Retain the original project name as its primary identifying name, and
+  clearly identify itself as a fork or derivative (e.g. "[Project Name] —
+  Generic Fork").
+
+CONTRIBUTIONS
+
+By submitting a contribution (pull request, patch, or similar), you grant
+the copyright holder a perpetual, worldwide, irrevocable, non-exclusive, royalty-free
+license to use, modify, distribute, and relicense that contribution as
+part of the Software.
+
+WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
