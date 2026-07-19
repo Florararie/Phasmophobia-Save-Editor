@@ -1,4 +1,4 @@
-Copyright (c) 2025 Florararie
+Copyright (c) 2026 Florararie
 
 All rights reserved.
 
@@ -8,10 +8,10 @@ This license is intended to make the Software available for viewing,
 learning, personal use, and collaboration, while reserving all
 commercial and distribution rights to the copyright holder.
 
-GOOD FAITH
+INTERPRETATION
 
-Users are expected to act in good faith and respect the spirit of this
-license. If you're unsure whether your use is permitted, please ask.
+This license shall be interpreted in accordance with its intended purpose. 
+If you're unsure whether your use is permitted, please ask.
 
 DEFINITIONS
 
@@ -45,8 +45,9 @@ Platform. Public forks are permitted solely for personal use, inspection,
 collaboration, and contributing back to the Software.
 
 Using the Software as a dependency (linking, importing, or requiring it)
-without modifying or redistributing it is permitted and does not
-constitute a Derivative.
+without modifying or redistributing it is permitted, provided that the 
+primary purpose of the importing work is not to act as a functional 
+substitute, wrapper, or direct alternative product to the Software.
 
 This license does not restrict independent implementations that are
 compatible with the Software's interfaces or APIs, provided they do
@@ -62,7 +63,7 @@ not:
    sharing the Software or a substantial portion of its source code via other hosting
    services, cloud storage, file-sharing sites, communication platforms,
    or compressed archives (e.g., .zip, .tar).
-2. Publish, distribute, or make available any compiled binaries, executables, 
+2. Publish, distribute, or intentionally make available any compiled binaries, executables, 
    releases, or distributable artifacts of the Software or a Derivative, whether 
    on or off the Official Platform. Public forks must remain source-code only. 
    Compiling the code into a binary is permitted solely for your own private, 
@@ -74,9 +75,13 @@ not:
 5. Misrepresent authorship of the Software, or remove or alter this
    license or its copyright notice.
 
-Nothing in this license grants permission to use the copyright holder's
-name, trademarks, logos, or branding, except as necessary to provide the
-attribution required below.
+Except as strictly required to fulfill the naming and attribution obligations
+outlined in the OBLIGATIONS OF DERIVATIVES section below, nothing in this license
+grants permission to use the copyright holder's name, trademarks, logos, or branding.
+To maintain its identity as a derivative, a Derivative must preserve the existing 
+branding of the Software; users may not replace, alter, or supplement the Software's 
+branding with their own distinct branding, logos, or alternative project names, except 
+for the sole purpose of appending the descriptive suffix required below.
 
 OBLIGATIONS OF DERIVATIVES
 
@@ -86,9 +91,10 @@ Every Derivative, however many times removed from the Software, must:
 - Retain the original copyright notice and attribution. Attribution must
   be reasonably prominent and may not be hidden, obscured, or presented
   in a misleading manner.
-- Retain the original project name as its primary identifying name, and
-  clearly identify itself as a fork or derivative (e.g. "[Project Name] —
-  Generic Fork").
+- Retain the original project name. If the title of the Derivative is altered or modified,
+  it must still retain the original project name as its primary identifying name and may
+  only use a descriptive suffix (e.g., "[Project Name] — Generic Fork") such that the altered
+  title cannot be interpreted as an original, standalone work, nor as an alternative product.
 
 CONTRIBUTIONS
 
