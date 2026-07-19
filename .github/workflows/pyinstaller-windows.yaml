@@ -3,6 +3,9 @@ name: PyInstaller Windows Build
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-and-release:
     runs-on: windows-latest
@@ -31,11 +34,10 @@ jobs:
         run: pyinstaller --onefile src/main.py --distpath dist --name PhasmoSaveEditor-${{ steps.meta.outputs.tag }}
 
       - name: Create Draft Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v2.1.0
         with:
+          token: ${{ secrets.TOKEN }}
           tag_name: ${{ steps.meta.outputs.tag }}
           name: ${{ steps.meta.outputs.tag }}
           draft: true
           files: ./dist/PhasmoSaveEditor-${{ steps.meta.outputs.tag }}.exe
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
